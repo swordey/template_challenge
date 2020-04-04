@@ -13,4 +13,6 @@ void fixed_tests();
 
 void random_tests();
 
+void evaluation_tests();
+
 #endif

@@ -10,7 +10,12 @@
 * Info: please download a module for this challenge to work (currently no additional modul is needed)
 */
 int add(int a, int b) {
+  // Implement your code here
   return 0;
+  /*
+  * If you solve here the challenge with the following: 'return a + b;', you can see, what the user
+  * will see after he finishes.
+  */
 }
 
 #endif
