@@ -1,9 +1,10 @@
-#ifndef TESTING_H
-#define TESTING_H
+#ifndef TESTING_HPP_INCLUDED
+#define TESTING_HPP_INCLUDED
 
 #include <unity.h>
 #include <ctime>
 #include <cstdlib>
+#include "../../challenge/inc/challenge.hpp"
 
 int solution(int a, int b);
 

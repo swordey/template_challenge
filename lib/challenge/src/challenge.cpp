@@ -1,8 +1,4 @@
-#ifndef CHALLENGE_H
-#define CHALLENGE_H
-
-
-#include <Arduino.h>
+#include "../inc/challenge.hpp"
 
 /* 
 * Challenge description
@@ -17,5 +13,3 @@ int add(int a, int b) {
   * will see after he finishes.
   */
 }
-
-#endif

@@ -2,7 +2,7 @@
 
 #include <Arduino.h>
 #include <unity.h>
-#include "../lib/testing/inc/testing.h"
+#include "../lib/testing/inc/testing.hpp"
 
 
 void setup()

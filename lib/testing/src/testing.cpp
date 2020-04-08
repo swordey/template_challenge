@@ -1,5 +1,4 @@
-#include "../inc/testing.h"
-#include "../../challenge/challenge.h"
+#include "../inc/testing.hpp"
 
 /*
 * The following variable can be used to check if all tests are passed.
